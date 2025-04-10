@@ -1,4 +1,4 @@
 # speech-to-text
 
 
-I think this has a lot of use especially in journalism. These days, we all really rely on otter.ai for interview transcription. Of course, that is also an AI model. In theory, whisper may be a better version of Otter. We didn't test its abilities to git.
+I think this has a lot of use, especially in journalism. These days, we all really rely on otter.ai for interview transcription. Of course, that is also an AI model. In theory, whisper may be a better version of Otter. It seems to be a very reliable and quick transcription option, whereas Otter is fairly user-friendly but not that good! I found this approach to be far less user-friendly than otter because it required far more code and understanding of more complex computer tasks, but once that can be mastered or approached in an easier way like the MacWhisper app, this seems like an incredibly useful and better approach. Being able to store audio locally seems to have a lot of benefits compared to potentially sensitive interviews just being up on the internet with an AI model. 
